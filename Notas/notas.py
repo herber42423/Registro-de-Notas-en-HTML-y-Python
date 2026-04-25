@@ -2,6 +2,9 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import os
 
+
+
+#Esta parte de el código muestra el archivo Json qué funciona para mostrar el registro de materias que va incluído, por ejemplo, o quiero agregar uama actividad a la app, por ejemplo, una de matemática, a pues está parte dele l código nos felicita agregar dicha tarea
 ruta_json = "notas.json"
 ruta_html = "resultado.html"
 ruta_img = "grafica.png"
